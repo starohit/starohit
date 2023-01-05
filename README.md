@@ -1,7 +1,7 @@
 Hi 👋 My name is Rohit
 ======================
 
-Web Developer and Designer
+Developer 
 --------------------------
 
 I started coding a couple of years ago , and still learning and exploring.........
