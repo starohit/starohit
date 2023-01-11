@@ -4,7 +4,7 @@ Hi 👋 My name is Rohit
 Developer
 --------------------------
 
-I started coding a couple of years ago , and still learning and exploring.........
+I started coding a couple of years ago , and still learning and exploring........
 
 * 🌍  I'm based in Bokaro Steel City
 * ✉️  You can contact me at [rohitkumarsingh875.hitit2020@gmail.com](mailto:rohitkumarsingh875.hitit2020@gmail.com)
