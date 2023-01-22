@@ -1,7 +1,7 @@
 Hi 👋 My name is Rohit
 ======================
 
-Developer
+A Developer
 --------------------------
 
 I started coding a couple of years ago , and still learning and exploring........
